@@ -2,23 +2,65 @@
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\statistics.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\max.cpp">
+      <Filter>max</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\min.cpp">
+      <Filter>min</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\mean.cpp">
+      <Filter>mean</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\quantiles.cpp">
+      <Filter>quantiles</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\std_deviation.cpp">
+      <Filter>std_deviation</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\max.h">
+      <Filter>max</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\mean.h">
+      <Filter>mean</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\min.h">
+      <Filter>min</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\quantiles.h">
+      <Filter>quantiles</Filter>
+    </ClInclude>
     <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\statistics.h">
-      <Filter>Header Files</Filter>
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\std_deviation.h">
+      <Filter>std_deviation</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Filter Include="Header Files">
-      <UniqueIdentifier>{FCF47B63-C8D8-3301-A36D-C001F8F6746E}</UniqueIdentifier>
+    <Filter Include="min">
+      <UniqueIdentifier>{b9a12396-abe5-4846-843a-097c3caa90b4}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files">
-      <UniqueIdentifier>{23BA2959-BA8B-3611-A7FE-AC2DDA97176B}</UniqueIdentifier>
+    <Filter Include="max">
+      <UniqueIdentifier>{4f46c7ee-3532-489f-b38f-2c25158b036f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mean">
+      <UniqueIdentifier>{7cd16d06-3e7f-43f3-916b-a14efd31d186}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{358f01ac-f648-480e-bb02-2c39e358f742}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="std_deviation">
+      <UniqueIdentifier>{29403b20-ff73-4457-9a64-be1ff0a8584a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="quantiles">
+      <UniqueIdentifier>{5f1118b6-4105-4466-b59d-c3348343e299}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
