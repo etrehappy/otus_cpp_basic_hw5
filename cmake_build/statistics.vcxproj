@@ -303,6 +303,16 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   <ItemGroup>
     <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\statistics.cpp" />
     <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\statistics.h" />
+    <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\min.cpp" />
+    <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\min.h" />
+    <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\max.cpp" />
+    <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\max.h" />
+    <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\mean.cpp" />
+    <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\mean.h" />
+    <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\std_deviation.cpp" />
+    <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\std_deviation.h" />
+    <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\quantiles.cpp" />
+    <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\quantiles.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\cmake_build\ZERO_CHECK.vcxproj">
