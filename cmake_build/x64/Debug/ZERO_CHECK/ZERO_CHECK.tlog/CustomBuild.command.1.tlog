@@ -1,0 +1,10 @@
+^C:\USERS\ETREH\DOCUMENTS\PROGRAMMING\OTUS\C++_DEVELOPER_2023_06\BASIC\LESSON_12\OTUS_CPP_BASIC_HW5\CMAKE_BUILD\CMAKEFILES\6904CE5131E7AF8B3ECE008D7630DC52\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/etreh/Documents/Programming/Otus/C++_Developer_2023_06/Basic/lesson_12/otus_cpp_basic_hw5/source -BC:/Users/etreh/Documents/Programming/Otus/C++_Developer_2023_06/Basic/lesson_12/otus_cpp_basic_hw5/cmake_build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/etreh/Documents/Programming/Otus/C++_Developer_2023_06/Basic/lesson_12/otus_cpp_basic_hw5/cmake_build/statistics.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
