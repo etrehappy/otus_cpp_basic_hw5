@@ -311,8 +311,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\mean.h" />
     <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\std_deviation.cpp" />
     <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\std_deviation.h" />
-    <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\quantiles.cpp" />
-    <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\quantiles.h" />
+    <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\pct90.cpp" />
+    <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\pct90.h" />
+    <ClCompile Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\pct95.cpp" />
+    <ClInclude Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\source\pct95.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\etreh\Documents\Programming\Otus\C++_Developer_2023_06\Basic\lesson_12\otus_cpp_basic_hw5\cmake_build\ZERO_CHECK.vcxproj">
